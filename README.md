@@ -27,7 +27,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/ShikhaSingh1706/ai-resume-analyzer.git
 
-</>Bash
 pip install -r requirements.txt
 streamlit run app.py
 
