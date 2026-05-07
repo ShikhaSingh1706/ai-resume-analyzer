@@ -29,7 +29,7 @@ git clone https://github.com/ShikhaSingh1706/ai-resume-analyzer.git
 
 pip install -r requirements.txt
 streamlit run app.py
-
+ ```
 🔐 Environment Variable
 Create environment variable:
 GOOGLE_API_KEY=your_api_key
